@@ -18,3 +18,7 @@ Jo mere strøm, desto flere elektroner bevæger sig.
 Modstand begrænser strømmen.
 En stor modstand giver mindre strøm.
 
+OHM'S lov : formler
+- **Current:** `I = V / R`
+- **Voltage:** `V = I × R`
+- **Resistance:** `R = V / I`
